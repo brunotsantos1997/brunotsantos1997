@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Bruno! 👋
 
 ### 👨‍💻 Software Developer | Full Stack & Mobile
 Sou um desenvolvedor focado em criar soluções que unem eficiência de dados e experiência do usuário. Tenho experiência prática tanto em ecossistemas móveis quanto em aplicações web robustas.
