@@ -9,13 +9,6 @@ Sou um desenvolvedor focado em criar soluções que unem eficiência de dados e 
 
 ---
 
-### 🚀 Projetos em Destaque
-* **Ride Efficiency Tool:** App Android que utiliza serviços de acessibilidade para cálculos de ganho/hora em tempo real.
-* **Sistema de Vouchers:** Aplicação web completa em React para automação de pagamentos e geração de vouchers.
-* **App Factory Strategy:** Desenvolvimento de micro-aplicativos focados em crescimento orgânico e ASO.
-
----
-
 ### 🛠️ Toolbox
 | Categoria | Tecnologias |
 | :--- | :--- |
