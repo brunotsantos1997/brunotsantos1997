@@ -20,5 +20,5 @@ Sou um desenvolvedor focado em criar soluções que unem eficiência de dados e 
 ---
 
 ### 📫 Como me encontrar
-* **LinkedIn:** [(https://www.linkedin.com/in/bruno-teixeira-dos-santos/)]
+* **LinkedIn:** [perfil do linkedin](https://www.linkedin.com/in/bruno-teixeira-dos-santos/)
 * **Portfólio/Site:** work in progress
